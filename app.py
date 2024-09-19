@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 
 # Load the trained model                                  
-filename = 'C:/Users/SNEHAL/Desktop/diabetes_prediction/rtfe.sav'
+filename = 'rtfe.sav'
 classifier = pickle.load(open(filename, 'rb'))
 
 app = Flask(__name__)
