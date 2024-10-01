@@ -16,12 +16,19 @@ Pandas: Library for data manipulation and analysis.
 The project uses the Puma India dataset, which includes various health metrics relevant to diabetes risk assessment. The key metrics in the dataset are:
 
 Age: Age of the individual (in years).
+
 Gender: Gender of the individual (male or female).
+
 BMI (Body Mass Index): A measure of body fat based on height and weight.
+
 Blood Pressure: Systolic and diastolic blood pressure readings.
+
 Glucose Levels: Fasting blood glucose levels (mg/dL).
+
 Insulin Levels: Insulin levels (µU/mL).
+
 Diabetes Pedigree Function: A function that scores the likelihood of diabetes based on family history.
+
 Outcome: Target variable indicating whether the individual has diabetes (1) or not (0).
 
 ## Screenshots:
