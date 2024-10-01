@@ -4,7 +4,7 @@
 A machine learning-based diabetes predictor that helps users assess their risk of diabetes based on various health metrics.
 
 ## Features
-- High prediction accuracy
+- Good prediction accuracy
 - User-friendly interface
 - Fast and scalable
 
@@ -13,14 +13,6 @@ A machine learning-based diabetes predictor that helps users assess their risk o
 - scikit-learn
 - Flask
 - Pandas
-
-## Installation
-To get started with the diabetes predictor, clone the repository and install the required dependencies:
-
-```bash
-git clone https://github.com/username/diabetes-predictor.git
-cd diabetes-predictor
-pip install -r requirements.txt
 
 
 ## Screenshots:
