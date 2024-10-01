@@ -23,7 +23,7 @@ cd diabetes-predictor
 pip install -r requirements.txt
 
 
-Screenshots:
+## Screenshots:
 ![image](https://github.com/user-attachments/assets/8a9af8c2-f950-406f-a0fe-72b0a65a0fd4)
 
 ![image](https://github.com/user-attachments/assets/1d3f928b-3e84-45c6-b871-59f91aba525b)
@@ -31,6 +31,6 @@ Screenshots:
 ![image](https://github.com/user-attachments/assets/cbc4725c-f4c6-45a4-8668-fd18e3a17de9)
 
 
-This Site is Live At:
+## This Site is Live At:
 https://diabetes-predict-flaskapp.onrender.com
 
